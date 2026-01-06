@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    
+}
+h1{
+    text-align: center;
+    background-color: azure;
+    width: 90px;
+}
+p{
+    text-align: center;
+    background-color: rgb(255, 138, 138);
+    width: 290px;
+}
