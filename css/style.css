@@ -4,7 +4,7 @@ body{
 }
 h1{
     text-align: center;
-    background-color: azure;
+    
     width: 90px;
     
 }
@@ -12,17 +12,30 @@ p{
     text-align: center;
     background-color: rgb(255, 138, 138);
     width: 290px;
-    margin-left: 840px;
+    
 }
 button{
-    margin-left: 970px;
+    
 }
 #encabezado{
     background-color: aquamarine;
     min-height: 200px;
     height: auto;
     width: 200px;
+    margin:0 auto ;
+    padding: 10px 5px 5px 5px;
+    border-radius: 20px 5px 5px 5px;
+    box-shadow: 5px 5px 15px rgb(126, 6, 163);
 }
-#encabezado{
-    color: black;
+.clase1{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.clase2{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.clase3{
+    color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
