@@ -6,9 +6,23 @@ h1{
     text-align: center;
     background-color: azure;
     width: 90px;
+    
 }
 p{
     text-align: center;
     background-color: rgb(255, 138, 138);
     width: 290px;
+    margin-left: 840px;
+}
+button{
+    margin-left: 970px;
+}
+#encabezado{
+    background-color: aquamarine;
+    min-height: 200px;
+    height: auto;
+    width: 200px;
+}
+#encabezado{
+    color: black;
 }
